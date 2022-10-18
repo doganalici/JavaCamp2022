@@ -9,7 +9,7 @@ public class Main {
 		product.name="";
 		manager.add(product);
 		
-		DatabaseHelper.Crud.Delete();
+		DatabaseHelper.Crud.Delete(); 
 	}
 
 }
